@@ -11,3 +11,8 @@ This is a simple (aka crude) example of how to do multipart form uploads,
 storing a file, and downloading a processed version of the file.
 
 
+If you want to build the sources you will need the Apache Commons
+FileUpload and IO packages.  Drop these in the lib folder under WEB-INFO.
+
+
+
